@@ -1,0 +1,1 @@
+print("Krishna","20","Valsad")
